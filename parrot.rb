@@ -1,4 +1,4 @@
 def parrot
   parrot="Squawk!"
-  puts parrot
+  print parrot
 end
